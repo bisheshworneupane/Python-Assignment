@@ -1,7 +1,7 @@
 """
-[*args] Write a Python function that takes an arbitrary number of positional
-arguments and returns the sum of all the numbers. Test your function with various
-input cases.
+Write a Python function called check_odd_even that takes an integer as input and
+uses a ternary operator to return "Even" if the number is even, and "Odd" if the
+number is odd.
 """
 
 #########################################################
